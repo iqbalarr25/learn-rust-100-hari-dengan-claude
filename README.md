@@ -10,13 +10,7 @@ Target: dari nol sampai bisa bikin backend Rust (axum + sqlx + Postgres + Kafka)
    ```
    cargo run --bin hariNNN
    ```
-3. Bilang **"selesai hari N"** → Claude review kodenya. Kalau lulus, dicentang di [SILABUS.md](SILABUS.md) dan baru lanjut ke hari berikutnya.
-4. Commit & push sendiri:
-   ```
-   git add .
-   git commit -m "hari N: <topik>"
-   git push
-   ```
+3. Bilang **"selesai hari N"** → Claude review kodenya. Kalau lulus, dicentang di [SILABUS.md](SILABUS.md), di-commit & push otomatis (`hari N: <topik>`), baru lanjut ke hari berikutnya.
 
 ## Aturan
 - "Hari" = sesi belajar, bukan tanggal. Skip sehari karena sibuk? Nggak apa-apa, lanjut aja besoknya.

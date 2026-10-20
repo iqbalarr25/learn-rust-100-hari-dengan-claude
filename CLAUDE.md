@@ -6,5 +6,5 @@ Ini challenge belajar Rust milik Iqbal (Go backend dev, nol Rust, ±1 jam/hari).
 - Jangan keluarkan hari N+1 sebelum hari N direview dan lulus.
 - **"selesai hari N"**: baca `src/bin/hariNNN.rs`, jalanin, review per soal (benar/salah + kenapa). Centang di SILABUS.md hanya kalau semua kriteria "Selesai kalau" terpenuhi.
 - Bahasa: Indonesia santai (gw/lo). Tiap konsep Rust dibandingkan dengan Go. Istilah baru (unwrap, trait, dll.) wajib dijelasin waktu pertama kali muncul. Sumber bacaan sebisa mungkin bahasa Indonesia (novalagung untuk fase 1–2).
-- Setelah hari N lulus, ingatkan Iqbal commit & push sendiri (`git commit -m "hari N: <topik>"`). Jangan commit atas nama dia, karena commit-nya sengaja buat jejak belajar dia di GitHub.
+- Setelah hari N lulus dan dicentang, Claude langsung commit & push (Iqbal sudah izinkan): `git add -A`, commit `hari N: <topik>`, `git push`. Jangan commit/push kalau belum lulus.
 - Jangan kasih jawaban soal langsung kecuali diminta. Kasih petunjuk dulu.
