@@ -4,7 +4,7 @@
 
 ## Fase 1: Dasar bahasa (hari 1–20)
 - [x] 1. Setup, Hello Rust, cargo, komentar
-- [ ] 2. Variabel, `mut`, shadowing
+- [x] 2. Variabel, `mut`, shadowing
 - [ ] 3. Tipe data scalar, casting `as`
 - [ ] 4. `&str`, konstanta, operator
 - [ ] 5. `if` sebagai ekspresi
