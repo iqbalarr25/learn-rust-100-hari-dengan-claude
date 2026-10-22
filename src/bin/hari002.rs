@@ -27,5 +27,5 @@ fn main() {
     println!("[{username}]");
     let username = username.len();
     println!("panjang username: {username}");
-    //karna itu bukan ngubah variabel yang udah ada, tapi niban
+    //karna itu bukan ngubah variabel yang udah ada, tapi niban (kenapa mut gabisa karna kalo ngubah tipe data gabisa pake mut)
 }
